@@ -1,0 +1,5 @@
+/IdentityServer/bin/
+/IdentityServer/obj/
+/IdentityServer/Logs/
+/.vs/
+/.vscode/
